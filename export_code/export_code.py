@@ -9,7 +9,9 @@ scripts = [
     "../controllers/app_controller.py",
     "../models/empleado_dao.py",
     "../models/product_dao.py",
-    "../views/consola_view.py"
+    "../views/consola_view.py",
+    "../supermercado_django/settings.py",
+    "../manage.py"
 
 ]
 
